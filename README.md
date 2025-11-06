@@ -34,6 +34,6 @@ Start → [Web Search || Knowledge Base || Analyzer] → Aggregator → Report �
 
 ## Documentation
 
-See [Context Foundry Pattern Library](https://github.com/context-foundry/context-foundry/tree/main/extensions/flowise/templates/afv2-patterns) for complete documentation.
+See [Context Foundry Pattern Library](https://github.com/snedea/afv2-patterns-index) for complete documentation.
 
 🤖 Built with Context Foundry
